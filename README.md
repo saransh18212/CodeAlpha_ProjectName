@@ -7,6 +7,10 @@ This repository contains all four CodeAlpha internship tasks:
 3. Student Management System
 4. Banking System Mini Project
 
+## Author
+
+Saransh
+
 ## Requirements
 
 - A C compiler such as GCC, Clang, or MinGW
