@@ -11,6 +11,14 @@ This repository contains all four CodeAlpha internship tasks:
 
 Saransh
 
+## Video Explanation Link
+
+Add the public video link here after recording and uploading the demonstration:
+
+`VIDEO_LINK_TO_BE_ADDED`
+
+See [VIDEO_SCRIPT.md](VIDEO_SCRIPT.md) for the narration and recording checklist.
+
 ## Requirements
 
 - A C compiler such as GCC, Clang, or MinGW
